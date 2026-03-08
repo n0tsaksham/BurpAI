@@ -1,0 +1,29 @@
+# Engagement Brief — [Target Name]
+
+## Target
+- URL: https://app.example.com
+- Type: REST API / Web Application
+- Description: Brief description of what the app does
+
+## Scope
+- https://app.example.com/*
+- https://api.example.com/*
+
+## Tech Stack
+- (Fill in if known: Node.js, Python, Java, PHP, etc.)
+- (Database: PostgreSQL, MongoDB, MySQL, etc.)
+- (Auth: JWT, session cookies, OAuth, API keys)
+
+## Authentication
+- How users authenticate (e.g. Bearer token in Authorization header)
+- Where to get the token (e.g. POST /api/auth/login)
+
+## What I Know Going In
+- (Any context about the app — user roles, key features, known endpoints)
+- (Number of test accounts available)
+
+## Testing Goals
+- Map all API endpoints from proxy traffic
+- Identify and confirm vulnerabilities through active testing
+- Follow OWASP API Security Top 10
+- Focus on business logic and authorization issues

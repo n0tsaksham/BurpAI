@@ -1,0 +1,8 @@
+burp-extension/build/
+burp-extension/.gradle/
+burp-extension/gradle/
+burp-extension/gradlew
+burp-extension/gradlew.bat
+__pycache__/
+*.pyc
+.env
